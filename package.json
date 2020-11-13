@@ -20,10 +20,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HAFizh-15/ES-KERING.git"
+    "url": "git+https://github.com/HAFizh-15/ES-KERING"
   },
   "keywords": [
-    "aex-bot",
+    "eskering",
     "whatsapp-bot",
     "nodejs",
     "whatsapp-web.js"
