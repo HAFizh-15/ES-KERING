@@ -21,7 +21,7 @@
 ### Install
 
 ```sh
-$ git clone https://github.com/ibnusyawall/aex-bot.git
+$ git clone https://github.com/HAFizh-15/ES-KERING
 $ cd aex-bot
 $ npm i
 $ npm start
