@@ -20,7 +20,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibnusyawall/aex-bot.git"
+    "url": "git+https://github.com/HAFizh-15/ES-KERING.git"
   },
   "keywords": [
     "aex-bot",
@@ -28,10 +28,10 @@
     "nodejs",
     "whatsapp-web.js"
   ],
-  "author": "ibnusyawall",
+  "author": "hafizh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ibnusyawall/aex-bot/issues"
+    "url": "https://github.com/HAFizh-15/ES-KERING/issues"
   },
-  "homepage": "https://github.com/ibnusyawall/aex-bot#readme"
+  "homepage": "https://github.com/HAFizh-15/ES-KERING#readme"
 }
